@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "351582092764",
+    "firebase_url": "https://to-do-app-813cc-default-rtdb.firebaseio.com",
+    "project_id": "to-do-app-813cc",
+    "storage_bucket": "to-do-app-813cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351582092764:android:90333d38ee83d7a8cca319",
+        "android_client_info": {
+          "package_name": "com.example.kotlintodopractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxPXkesaX9nYlnoDkGs4vYylGzVkX9tjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351582092764:android:726b4c9f8f2ed330cca319",
+        "android_client_info": {
+          "package_name": "com.example.taskmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxPXkesaX9nYlnoDkGs4vYylGzVkX9tjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
